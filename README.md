@@ -33,427 +33,473 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A boke of the propreties of herbes called an herball wherunto is added the time [the] herbes, floure
+
 #####Body#####
 
-1. ¶Agnus castus.
+1. ¶De virtutibus herbarum e• primo de littera .A.
 
-1. ☞Apium.
+    _ ¶Agnus castus.
 
-1. ¶Anetum.
+    _ ☞Apium.
 
-1. ¶Apiume risus.
+    _ ¶Anetum.
 
-1. ¶Absynthium.
+    _ ¶Apiume risus.
 
-1. Arthamesia.
+    _ ¶Absynthium.
 
-1. Affodylius.
+    _ Arthamesia.
 
-1. Aristologia longa.
+    _ Affodylius.
 
-1. Aristologia rotunda.
+    _ Aristologia longa.
 
-1. ¶Abrotanum.
+    _ Aristologia rotunda.
 
-1. ¶Ameos.
+    _ ¶Abrotanum.
 
-1. ¶Alleluya.
+    _ ¶Ameos.
 
-1. ¶Asterion.
+    _ ¶Alleluya.
 
-1. ¶Agrimonia.
+    _ ¶Asterion.
 
-1. ☞Auencia.
+    _ ¶Agrimonia.
 
-1. Altea.
+    _ ☞Auencia.
 
-1. ¶Amarisca.
+    _ Altea.
 
-1. ¶Auticula muris.
+    _ ¶Amarisca.
 
-1. ☞Apium Emoroidarum.
+    _ ¶Auticula muris.
 
-1. Apium ranarum.
+    _ ☞Apium Emoroidarum.
 
-1. Triplex domestica.
+    _ Apium ranarum.
 
-1. Anabulla.
+    _ Triplex domestica.
 
-1. Acus demonis.
+    _ Anabulla.
 
-1. Argentilla.
+    _ Acus demonis.
 
-1. Acus mustela.
+    _ Argentilla.
 
-1. Allium.
+    _ Acus mustela.
 
-1. Amsum.
+    _ Allium.
 
-1. Et primo de Bethonia.
+    _ Amsum.
 
-1. Balsaminta.
+1. ❧ Hic incipit litiera .B.
 
-1. Bl•ta.
+    _ Et primo de Bethonia.
 
-1. Borago.
+    _ Balsaminta.
 
-1. Bugla.
+    _ Bl•ta.
 
-1. Burneta.
+    _ Borago.
 
-1. Bursa pastoris.
+    _ Bugla.
 
-1. Borago siluestris.
+    _ Burneta.
 
-1. Billire.
+    _ Bursa pastoris.
 
-1. Camomilla.
+    _ Borago siluestris.
 
-1. Calamintum.
+    _ Billire.
+Camomilla.Thys herbe is called Camomyl the vertue of thys herbe is thus yf it be dronke with wine it
+    _ Camomilla.
 
-1. Crassula maior.
+    _ Calamintum.
 
-1. Crassula minor.
+    _ Crassula maior.
 
-1. Cicuta.
+    _ Crassula minor.
 
-1. Centaurea maior.
+    _ Cicuta.
 
-1. Centauria minor.
+    _ Centaurea maior.
 
-1. Caruo.
+    _ Centauria minor.
 
-1. ❧ Celidonia.
+    _ Caruo.
 
-1. Culamen.
+    _ ❧ Celidonia.
 
-1. Colewortes.
+    _ Culamen.
 
-1. Coliandrum.
+    _ Colewortes.
 
-1. Capillus veneris.
+    _ Coliandrum.
 
-1. Crocus.
+    _ Capillus veneris.
 
-1. Centinodium.
+    _ Crocus.
 
-1. Caprifolium.
+    _ Centinodium.
 
-1. Canabaria.
+    _ Caprifolium.
 
-1. Costus.
+    _ Canabaria.
 
-1. Cepe.
+    _ Costus.
 
-1. Columbina.
+    _ Cepe.
 
-1. Cominum.
+    _ Columbina.
 
-1. Cardiaca.
+    _ Cominum.
 
-1. ¶ Cisara.
+    _ Cardiaca.
 
-1. Camelon.
+    _ ¶ Cisara.
 
-1. Cauda pulli.
+    _ Camelon.
 
-1. Cabachis.
+    _ Cauda pulli.
 
-1. Caulus gallica.
+    _ Cabachis.
 
-1. Caulus agrestis.
+    _ Caulus gallica.
 
-1. Cimbaria.
+    _ Caulus agrestis.
 
-1. Consolida maior.
+    _ Cimbaria.
 
-1. Consolida minor
+    _ Consolida maior.
 
-1. Consolida media.
+    _ Consolida minor
 
-1. Et primo de Dragantia.
+    _ Consolida media.
 
-1. Diptanum.
+1. ¶Hic incipit lettera D.
 
-1. Dancus asinius.
+    _ Et primo de Dragantia.
 
-1. Dens leonis.
+    _ Diptanum.
 
-1. Dens canis
+    _ Dancus asinius.
 
-1. Daucus creticus.
+    _ Dens leonis.
 
-1. Dragancia.
+    _ Dens canis
 
-1. Et primo de Enulacampana.
+    _ Daucus creticus.
 
-1. Endiuia.
+    _ Dragancia.
 
-1. ¶ Eru•a.
+1. ¶Hi••ncipit littera .E.
 
-1. Eufrasia.
+    _ Et primo de Enulacampana.
 
-1. Ehullus.
+    _ Endiuia.
 
-1. Edera.
+    _ ¶ Eru•a.
 
-1. Edera terrestris.
+    _ Eufrasia.
 
-1. Enforbium.
+    _ Ehullus.
 
-1. Elleboras albus.
+    _ Edera.
 
-1. ¶Elleborus niger.
+    _ Edera terrestris.
 
-1. ☞Epatica.
+    _ Enforbium.
 
-1. Erpina
+    _ Elleboras albus.
 
-1. ❧ Ebulus minor.
+    _ ¶Elleborus niger.
 
-1. Et primo de Flāmula.
+    _ ☞Epatica.
 
-1. ☞Fumus terre.
+    _ Erpina
 
-1. Fumicretum.
+    _ ❧ Ebulus minor.
 
-1. Fragra.
+1. ¶Hic incipit li•tera .F.
 
-1. Fabaria maior.
+    _ Et primo de Flāmula.
 
-1. Fabaria minor.
+    _ ☞Fumus terre.
 
-1. Filix.
+    _ Fumicretum.
 
-1. Filipendula.
+    _ Fragra.
 
-1. Feniculum.
+    _ Fabaria maior.
 
-1. Faxinus.
+    _ Fabaria minor.
 
-1. Feniculus poeticus.
+    _ Filix.
 
-1. Febrifuga.
+    _ Filipendula.
 
-1. Filago.
+    _ Feniculum.
 
-1. Flamenula.
+    _ Faxinus.
 
-1. et primo de gratia dei maior.
+    _ Feniculus poeticus.
 
-1. Granum.
+    _ Febrifuga.
 
-1. Genestula.
+    _ Filago.
 
-1. Gencianus.
+    _ Flamenula.
 
-1. Galanga.
+1. Hic incipit littera .G.
 
-1. Granum solis agrestis.
+    _ et primo de gratia dei maior.
 
-1. Gladiolus.
+    _ Granum.
 
-1. Et primo de herba cruciata.
+    _ Genestula.
 
-1. Herba cristofori masculi.
+    _ Gencianus.
 
-1. Herba Cristofori femini.
+    _ Galanga.
 
-1. Herba walteri.
+    _ Granum solis agrestis.
 
-1. Herba Rob•rti.
+    _ Gladiolus.
 
-1. Herba Martis.
+1. ❧ Hic incipit littera .H.
 
-1. Hastucaregia.
+    _ Et primo de herba cruciata.
 
-1. Herbe Petri.
+    _ Herba cristofori masculi.
 
-1. Herba Iohannis.
+    _ Herba Cristofori femini.
 
-1. Et primo de Iusqbiamus.
+    _ Herba walteri.
 
-1. Isopus.
+    _ Herba Rob•rti.
 
-1. Ireos.
+    _ Herba Martis.
 
-1. ☞Iris.
+    _ Hastucaregia.
 
-1. Iarus.
+    _ Herbe Petri.
 
-1. Iasia nigra.
+    _ Herba Iohannis.
 
-1. Iasia alba.
+1. Hic incipit littera .I.
 
-1. Ipia maior.
+    _ Et primo de Iusqbiamus.
 
-1. Ipia minor.
+    _ Isopus.
 
-1. ¶ Ia•metus rusticus.
+    _ Ireos.
 
-1. Et primo de herba Lanisticum.
+    _ ☞Iris.
 
-1. Lingua ceruina.
+    _ Iarus.
 
-1. Lilium.
+    _ Iasia nigra.
 
-1. Ligustum.
+    _ Iasia alba.
 
-1. Lingua bouis.
+    _ Ipia maior.
 
-1. Lingua serpentis maior.
+    _ Ipia minor.
 
-1. Lengua serpentes minor.
+    _ ¶ Ia•metus rusticus.
 
-1. Lingua canis
+1. Hic incipit littera .L.
 
-1. Lingua hiccina.
+    _ Et primo de herba Lanisticum.
 
-1. Lupinus.
+    _ Lingua ceruina.
 
-1. Labrum veneris.
+    _ Lilium.
 
-1. Lauendula.
+    _ Ligustum.
 
-1. Lactuca.
+    _ Lingua bouis.
 
-1. Lactuca siluatica.
+    _ Lingua serpentis maior.
 
-1. Lactuca leporina.
+    _ Lengua serpentes minor.
 
-1. ¶Lollium.
+    _ Lingua canis
 
-1. Lapacium rubeum.
+    _ Lingua hiccina.
 
-1. ¶Linum.
+    _ Lupinus.
 
-1. Lauriola.
+    _ Labrum veneris.
 
-1. Liquiritia.
+    _ Lauendula.
 
-1. ☞Lappa.
+    _ Lactuca.
 
-1. Lappa ameria.
+    _ Lactuca siluatica.
 
-1. et primo de Millefolio minore,
+    _ Lactuca leporina.
 
-1. Mercurialis.
+    _ ¶Lollium.
 
-1. Menta.
+    _ Lapacium rubeum.
 
-1. Menta romana.
+    _ ¶Linum.
 
-1. Malua.
+    _ Lauriola.
 
-1. ¶Morell or nyght shadowe.
+    _ Liquiritia.
 
-1. ¶Mastyke.
+    _ ☞Lappa.
 
-1. Magerum.
+    _ Lappa ameria.
 
-1. Millefolium maior, or yarowe.
+1. ¶:De littera .M.
 
-1. Motherworte or Mugworte,
+    _ et primo de Millefolio minore,
 
-1. Maces.
+    _ Mercurialis.
 
-1. Menta.
+    _ Menta.
 
-1. et primo de nux muscata.
+    _ Menta romana.
 
-1. ❧ Napo.
+    _ Malua.
 
-1. et primo de Olibano.
+    _ ¶Morell or nyght shadowe.
 
-1. Et primo de Pruna.
+    _ ¶Mastyke.
 
-1. ☞ Peper.
+    _ Magerum.
 
-1. Pympernell.
+    _ Millefolium maior, or yarowe.
 
-1. Pulegium.
+    _ Motherworte or Mugworte,
 
-1. Pencedanum vel Feniculus porcinus.
+    _ Maces.
 
-1. Petrocilium.
+    _ Menta.
 
-1. Peritorium.
+1. ¶N. littera
 
-1. ¶Pastinaca.
+    _ et primo de nux muscata.
 
-1. Plantago.
+    _ ❧ Napo.
 
-1. Portum.
+1. ❧ Hic incipit littera .O.
 
-1. ¶Fracturas sotidat duritiasque relaxat.
+    _ et primo de Olibano.
 
-1. ☞Diretrum.
+1. Hic incipit littera .P.
 
-1. ❧ Papauer.
+    _ Et primo de Pruna.
 
-1. ☞Pollipodium.
+    _ ☞ Peper.
 
-1. Pionium.
+    _ Pympernell.
 
-1. Et primo de Qui•quefolia.
+    _ Pulegium.
 
-1. and fyrst of Rybeworte.
+    _ Pencedanum vel Feniculus porcinus.
 
-1. Rednetle.
+    _ Petrocilium.
 
-1. ¶Rosa.
+    _ Peritorium.
 
-1. Rosemary.
+    _ ¶Pastinaca.
 
-1. Ruta.
+    _ Plantago.
 
-1. Et primo de Sinapio.
+    _ Portum.
 
-1. ¶Smalage.
+    _ ¶Fracturas sotidat duritiasque relaxat.
 
-1. Saluia.
+    _ ☞Diretrum.
 
-1. ☞Sytureia.
+    _ ❧ Papauer.
 
-1. Saxfrage.
+    _ ☞Pollipodium.
 
-1. Scabiosa.
+    _ Pionium.
 
-1. ¶Sothernwode.
+1. ☞Q. Littera.
 
-1. Syngrene.
+    _ Et primo de Qui•quefolia.
 
-1. Stycheworte.
+1. Hic incipit littera .R.
 
-1. Scamony.
+    _ and fyrst of Rybeworte.
 
-1. Sene.
+    _ Rednetle.
 
-1. ❧ Selondyne.
+    _ ¶Rosa.
 
-1. ❧ Sauayne.
+    _ Rosemary.
 
-1. ❧ Scabiose.
+    _ Ruta.
 
-1. Et primo de Tapsu ba•basto.
+1. ☞Hic incepit liriera. S.
 
-1. Towne cresses.
+    _ Et primo de Sinapio.
 
-1. Et primo de herba Uiole.
+    _ ¶Smalage.
 
-1. Uua suauis.
+    _ Saluia.
 
-1. Ueruayne.
+    _ ☞Sytureia.
 
-1. Et primo de Watercresses.
+    _ Saxfrage.
 
-1. Wild neppe or wodbynd.
+    _ Scabiosa.
 
-1. Wormewode.
+    _ ¶Sothernwode.
+
+    _ Syngrene.
+
+    _ Stycheworte.
+
+    _ Scamony.
+
+    _ Sene.
+
+    _ ❧ Selondyne.
+
+    _ ❧ Sauayne.
+
+    _ ❧ Scabiose.
+
+1. ¶Littera .T.
+
+    _ Et primo de Tapsu ba•basto.
+
+    _ Towne cresses.
+
+1. Littera .U.
+
+    _ Et primo de herba Uiole.
+
+    _ Uua suauis.
+
+    _ Ueruayne.
+
+1. Hic incipit littera .W.
+
+    _ Et primo de Watercresses.
+
+    _ Wild neppe or wodbynd.
+
+    _ Wormewode.
+
+1. ¶The vertues of Waters stylled.
+
+1. ¶The tyme of gathering Sedes Floures Herbes and Rootes.
+
+1. ¶A generall rule of all maner of herbes.
 
 #####Back#####
-A boke of the propreties of herbes called an herball wherunto is added the time [the] herbes, floure
+
+1. ¶Here beginneth the table of thys boke.
+¶Imprynted at London in the Fletestrete at the sygne of the Rose Garland by me Wyllyam Copland. for 
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
